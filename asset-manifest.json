@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bcomp-web/static/css/main.073c9b0a.css",
+    "main.js": "/bcomp-web/static/js/main.77002fb6.js",
+    "static/js/787.b886ba35.chunk.js": "/bcomp-web/static/js/787.b886ba35.chunk.js",
+    "static/media/logo.svg": "/bcomp-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bcomp-web/index.html",
+    "main.073c9b0a.css.map": "/bcomp-web/static/css/main.073c9b0a.css.map",
+    "main.77002fb6.js.map": "/bcomp-web/static/js/main.77002fb6.js.map",
+    "787.b886ba35.chunk.js.map": "/bcomp-web/static/js/787.b886ba35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77002fb6.js"
+  ]
+}
