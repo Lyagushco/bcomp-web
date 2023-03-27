@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/bcomp-web/static/css/main.073c9b0a.css",
-    "main.js": "/bcomp-web/static/js/main.77002fb6.js",
-    "static/js/787.b886ba35.chunk.js": "/bcomp-web/static/js/787.b886ba35.chunk.js",
-    "static/media/logo.svg": "/bcomp-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bcomp-web/static/css/main.a240c550.css",
+    "main.js": "/bcomp-web/static/js/main.9988a489.js",
     "index.html": "/bcomp-web/index.html",
-    "main.073c9b0a.css.map": "/bcomp-web/static/css/main.073c9b0a.css.map",
-    "main.77002fb6.js.map": "/bcomp-web/static/js/main.77002fb6.js.map",
-    "787.b886ba35.chunk.js.map": "/bcomp-web/static/js/787.b886ba35.chunk.js.map"
+    "static/media/wasm_bg.wasm": "/bcomp-web/static/media/wasm_bg.e144c0d86d19906002cd.wasm",
+    "main.a240c550.css.map": "/bcomp-web/static/css/main.a240c550.css.map",
+    "main.9988a489.js.map": "/bcomp-web/static/js/main.9988a489.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.77002fb6.js"
+    "static/css/main.a240c550.css",
+    "static/js/main.9988a489.js"
   ]
 }
