@@ -1,2 +1,0 @@
-# BComp web
-sussy readme
