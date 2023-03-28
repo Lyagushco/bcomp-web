@@ -1,3 +1,0 @@
-[submodule "wasm/bcomp"]
-	path = wasm/bcomp
-	url = https://github.com/tune-it/bcomp
