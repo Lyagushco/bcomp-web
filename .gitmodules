@@ -1,0 +1,6 @@
+[submodule "wasm/--force"]
+	path = wasm/--force
+	url = https://github.com/tune-it/bcomp
+[submodule "wasm/bcomp"]
+	path = wasm/bcomp
+	url = https://github.com/tune-it/bcomp
